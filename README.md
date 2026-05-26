@@ -9,11 +9,23 @@ technical presentation deliverables.
 
 ## Artifacts
 
-- `Holland Hotels - Technical Presentation.pptx`
-- `Holland Hotels Bookings Insights- viz-twbx.twbx`
-- `Hotels.Logitreg - excel-zip.zip`
+- `presentations/holland-hotels-technical-presentation.pptx` - technical
+  presentation and findings narrative.
+- `workbooks/holland-hotels-booking-insights.twbx` - Tableau workbook for
+  booking and customer analytics.
+- `archives/hotels-logistic-regression-excel.zip` - historical modeling
+  artifact.
+
+## Structure
+
+```text
+presentations/  stakeholder and technical presentation artifacts
+workbooks/      Tableau BI workbook
+archives/       original packaged analysis artifact
+```
 
 ## Status
 
-Archived portfolio work. The original project artifacts are preserved as-is and
-remain public to document earlier data analytics engineering experience.
+Archived portfolio work. The project content is preserved and organized for
+readability. It remains public to document earlier data analytics engineering
+experience.
